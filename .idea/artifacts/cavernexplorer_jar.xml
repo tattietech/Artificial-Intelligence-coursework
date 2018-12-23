@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cavernexplorer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cavernexplorer_jar</output-path>
+    <root id="archive" name="cavernexplorer.jar">
+      <element id="module-output" name="cavernexplorer" />
+    </root>
+  </artifact>
+</component>
