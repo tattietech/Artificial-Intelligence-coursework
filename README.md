@@ -1,5 +1,7 @@
 # Artificial Intelligence Coursework - A* Pathfinding Algorithm
 
+> **Note :warning:**: This is an academic project created while I was studying Software Engineering. The SDK versions and build tools reflect the time of development and are documented as-is for historical accuracy. It is not live nor will it be maintained any further.
+
 ## Project Overview
 
 This project is an academic implementation of the **A* (A-Star) pathfinding algorithm** in Java, developed as coursework for an Artificial Intelligence course. The program solves the problem of finding the shortest path through a cavern system represented as a coordinate-based map.
